@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753241504098",
+    "project_id": "task-526f9",
+    "storage_bucket": "task-526f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753241504098:android:3fdfb05b0345b9007b543b",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-s_KPWFY34OGFwog7xaSJ2imZRVaFDlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
